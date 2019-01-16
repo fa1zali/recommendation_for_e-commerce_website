@@ -10,12 +10,12 @@ For this project, we will be working to understand the results of an A/B test ru
 
 ### Files used
 We used the following files provided by Udacity to work on this project:
-*
-*
+* ab_data.csv
+* countries.csv
 
-
-These file contain the raw data for bike share system and contains the trip start and stop times,
-trip duration, starting and ending stations, user types, gender and birth year.
+These file contain the raw data for the control and experiment groups, what was
+their initial landing page, whether the opted for the new page or not and to which
+countries a particular user belongs.
 
 ### Credits
 Thanks to Udacity for teaching me Python :sparkles: :heart: :sparkles:
