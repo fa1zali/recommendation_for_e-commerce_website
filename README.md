@@ -2,7 +2,7 @@
 13th January 2019
 
 ### Project Title
-**Analyze A/B Test Results**
+**Recommendation for an e-Commerce Website**
 
 ### Description
 A/B tests are very commonly performed by data analysts and data scientists.
